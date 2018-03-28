@@ -1,0 +1,21 @@
+{
+    "name": "aki/yii2-persian-font-asset",
+    "description": "persian font asset for yiiframework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","persian font asset"," persian font"," font"," yii2-persian-font-asset","persian-font-asset"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akbar joudi",
+            "email": "akbar.joody@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "aki\\persianfont\\": ""
+        }
+    }
+}
