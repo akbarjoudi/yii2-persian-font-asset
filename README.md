@@ -28,25 +28,25 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \aki\persianfont\BKoodakBoldAsset::register($this); ?>
+<?php \aki\persianfont\BKoodakBoldAsset::register($this); ?>
 
-<?= \aki\persianfont\BMitraAsset::register($this); ?>
+<?php \aki\persianfont\BMitraAsset::register($this); ?>
 
-<?= \aki\persianfont\BMitraBoldAsset::register($this); ?>
+<?php \aki\persianfont\BMitraBoldAsset::register($this); ?>
 
-<?= \aki\persianfont\BNasimAsset::register($this); ?>
+<?php \aki\persianfont\BNasimAsset::register($this); ?>
 
-<?= \aki\persianfont\BRoyaAsset::register($this); ?>
+<?php \aki\persianfont\BRoyaAsset::register($this); ?>
 
-<?= \aki\persianfont\BTabassomAsset::register($this); ?>
+<?php \aki\persianfont\BTabassomAsset::register($this); ?>
 
-<?= \aki\persianfont\BTitrAsset::register($this); ?>
+<?php \aki\persianfont\BTitrAsset::register($this); ?>
 
-<?= \aki\persianfont\BTitrTGEAsset::register($this); ?>
+<?php \aki\persianfont\BTitrTGEAsset::register($this); ?>
 
-<?= \aki\persianfont\BTrafficAsset::register($this); ?>
+<?php \aki\persianfont\BTrafficAsset::register($this); ?>
 
-<?= \aki\persianfont\YekanAsset::register($this); ?>
+<?php \aki\persianfont\YekanAsset::register($this); ?>
 
-<?= \aki\persianfont\BYekanAsset::register($this); ?>
+<?php \aki\persianfont\BYekanAsset::register($this); ?>
 ```
