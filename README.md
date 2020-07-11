@@ -49,4 +49,6 @@ Once the extension is installed, simply use it in your code by  :
 <?php \aki\persianfont\YekanAsset::register($this); ?>
 
 <?php \aki\persianfont\BYekanAsset::register($this); ?>
+
+<?php \aki\persianfont\IranSansAsset::register($this); ?>
 ```
